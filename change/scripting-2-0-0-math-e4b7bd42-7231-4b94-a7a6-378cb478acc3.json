@@ -1,0 +1,7 @@
+{
+  "type": "major",
+  "comment": "Bump to @minecraft/server@2.0.0",
+  "packageName": "scripting-2.0.0-math",
+  "email": "69014593+FrederoxDev@users.noreply.github.com",
+  "dependentChangeType": "patch"
+}
