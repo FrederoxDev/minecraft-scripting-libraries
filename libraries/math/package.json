@@ -1,6 +1,6 @@
 {
-  "name": "@minecraft/math",
-  "version": "2.2.7",
+  "name": "scripting-2.0.0-math",
+  "version": "3.0.1",
   "author": "Raphael Landaverde (rlanda@microsoft.com)",
   "contributors": [
     {
@@ -17,7 +17,7 @@
   "types": "./lib/types/math-public.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mojang/minecraft-scripting-libraries.git",
+    "url": "https://github.com/FrederoxDev/minecraft-scripting-libraries.git",
     "directory": "libraries/math"
   },
   "scripts": {

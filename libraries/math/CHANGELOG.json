@@ -1,6 +1,36 @@
 {
-  "name": "@minecraft/math",
+  "name": "scripting-2.0.0-math",
   "entries": [
+    {
+      "date": "Mon, 30 Jun 2025 11:29:51 GMT",
+      "version": "3.0.1",
+      "tag": "scripting-2.0.0-math_v3.0.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "69014593+FrederoxDev@users.noreply.github.com",
+            "package": "scripting-2.0.0-math",
+            "commit": "6e03301b8e702c43d38d20625be3af00a2391ae4",
+            "comment": "Change files"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Mon, 30 Jun 2025 11:28:06 GMT",
+      "version": "3.0.0",
+      "tag": "scripting-2.0.0-math_v3.0.0",
+      "comments": {
+        "major": [
+          {
+            "author": "69014593+FrederoxDev@users.noreply.github.com",
+            "package": "scripting-2.0.0-math",
+            "commit": "6fab20a024c1ef9783f988ebe570d0d2841cd07e",
+            "comment": "Bump to @minecraft/server@2.0.0"
+          }
+        ]
+      }
+    },
     {
       "date": "Thu, 22 May 2025 22:35:28 GMT",
       "version": "2.2.5",

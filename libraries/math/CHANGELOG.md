@@ -1,8 +1,24 @@
-# Change Log - @minecraft/math
+# Change Log - scripting-2.0.0-math
 
-<!-- This log was last generated on Thu, 22 May 2025 22:35:28 GMT and should not be manually modified. -->
+<!-- This log was last generated on Mon, 30 Jun 2025 11:29:51 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 3.0.1
+
+Mon, 30 Jun 2025 11:29:51 GMT
+
+### Patches
+
+- Change files (69014593+FrederoxDev@users.noreply.github.com)
+
+## 3.0.0
+
+Mon, 30 Jun 2025 11:28:06 GMT
+
+### Major changes
+
+- Bump to @minecraft/server@2.0.0 (69014593+FrederoxDev@users.noreply.github.com)
 
 ## 2.2.5
 
