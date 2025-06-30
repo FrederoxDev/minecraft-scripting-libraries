@@ -1,6 +1,6 @@
 {
   "name": "@minecraft/math",
-  "version": "2.2.6",
+  "version": "2.2.7",
   "author": "Raphael Landaverde (rlanda@microsoft.com)",
   "contributors": [
     {
@@ -34,11 +34,11 @@
     "api-report"
   ],
   "peerDependencies": {
-    "@minecraft/server": "^1.15.0"
+    "@minecraft/server": "^2.0.0"
   },
   "devDependencies": {
     "@minecraft/core-build-tasks": "*",
-    "@minecraft/server": "^1.15.0",
+    "@minecraft/server": "^2.0.0",
     "@minecraft/tsconfig": "*",
     "just-scripts": "^2.3.3",
     "prettier": "^3.5.3",
